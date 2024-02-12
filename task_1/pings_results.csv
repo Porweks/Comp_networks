@@ -1,0 +1,11 @@
+Domain,Response Time (ms),Packet Loss
+vk.com,54.77,0.0
+yandex.com,62.56,0.0
+google.com,54.64,0.0
+pornhub.com,115.78,0.0
+youtube.com,58.45,0.0
+twitch.tv,75.93,0.0
+kaggle.com,57.94,0.0
+github.com,91.1,0.0
+stackoverflow.com,77.79,0.0
+mail.ru,94.06,0.0
